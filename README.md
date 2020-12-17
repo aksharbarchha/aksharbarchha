@@ -9,7 +9,7 @@ Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
      * I love playing Carrom and my friends say I'm quite a good player :bowtie:
-     * I'm rated 1065 on [chess.com](https://www.chess.com/home) ♘ and I aim to reach 1400.
+     * I'm rated 1065 on [chess.com](https://www.chess.com/home) ♘ and my aim is to reach 1400.
 - 🎧 I like listening to **music** while I **code**.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aksharbarchha&show_icons=true&color=purple&theme=gotham) 
