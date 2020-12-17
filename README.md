@@ -16,11 +16,6 @@ Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbarchha&layout=compact&theme=gotham&card_width=445)](https://github.com/aksharbarchha/github-readme-stats)
 
-<p align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aksharbarchha.aksharbarchha" alt="visitor badge"/>       
-</p>
-
 <details>
 <summary>
   More stuff about me
@@ -46,4 +41,25 @@ Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who 
     <img src="https://run.kaist.ac.kr/badges/atcoder/akshar09.svg" alt="atcoder" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
+
+</details>
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/akshar-barchha-398ab41a6/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.instagram.com/akshar_barchha/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
+<a href= "mailto: aksharbarchha02@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/gmail.png"/></a>
+<a href= "https://twitter.com/aksharbarchha"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aksharbarchha.aksharbarchha" alt="visitor badge"/>       
+</p>
+
+</p>
+
+---
 
