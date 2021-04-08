@@ -21,12 +21,6 @@ Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who 
   More stuff about me
 </summary>
 
-## What I'm currently learning 📚
-
-- Web Development
-- Competitive Programming
-- Machine Learning/Deep Learning
-
 ## 📢 Competitive Programming Handles
 <p align="left">
     <a href="https://www.codechef.com/users/akshar123">
