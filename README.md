@@ -4,7 +4,7 @@
 
 Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who likes to make **📱 Android apps and 🌐 Website**. I'm a creative problem solving enthusiast and hence I love doing **Competitive Programming** 💻. I have also worked upon some projects based on Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on **some of my side projects :P**
+- 🔭 I’m currently working on **Flutter Project**
 - 🌱 I’m currently learning **Django and ReactJs**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
