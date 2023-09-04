@@ -5,7 +5,7 @@
 Hi, I'm Akshar Barchha, a web and app developer 👨🏻‍💻 from India, who likes to make **📱 Android apps and 🌐 Website**. I'm a creative problem solving enthusiast and hence I love doing **Competitive Programming** 💻. I have also worked upon some projects based on Machine Learning and Deep Learning.
 
 - 🔭 I’m currently looking for opportunities as a **Software Developer**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Golang**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
      * I love playing Carrom and my friends say I'm quite a good player :bowtie:
